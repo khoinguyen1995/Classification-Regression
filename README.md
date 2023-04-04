@@ -1,2 +1,2 @@
-# Classification-Regression-
+# Classification-Regression
 Using classification, regression for predict
